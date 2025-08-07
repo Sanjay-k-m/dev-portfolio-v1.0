@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "SANJAY KM",
-  title: "Full Stack Developer ",
+  title: "Full Stack Developer | Freelancer | Exploring AI & Data Science",
   description: "Portfolio website of SANJAY KM",
   accentColor: "#1d4ed8",
   social: {
@@ -39,12 +39,11 @@ export const siteConfig = {
   ],
   projects: [
     {
-      name: "Trade Fusion Corporate Website",
+      name: "Trade Fusion Corporate Website (Freelance)",
       description:
-        "A responsive corporate website for a UAE-based trading company, built with React and Bootstrap. Includes a fully functional admin panel to manage products, categories, and images using Firebase Firestore and Storage. Integrated secure upload handling and bulk deletion. Hosted on Netlify with domain setup via GoDaddy.",
+        "A responsive corporate website built as a freelance project for a UAE-based trading company. Developed with React and Bootstrap. Includes a fully functional admin panel to manage products, categories, and images using Firebase Firestore and Storage. Integrated secure upload handling and bulk deletion. Hosted on Netlify with domain setup via GoDaddy.",
       link: "https://tradefusionuae.com",
       skills: [
-        "React.js",
         "Bootstrap",
         "Firebase",
         "Firestore",
@@ -143,7 +142,7 @@ export const siteConfig = {
   education: [
     {
       school: "Mangalore University",
-      degree: "Masters of Computer Applications",
+      degree: "Master of Computer Applications",
       dateRange: "2022 - 2024",
       achievements: [
         "Developed multiple full-stack projects using MERN and Firebase",
