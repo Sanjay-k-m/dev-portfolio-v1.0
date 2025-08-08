@@ -8,7 +8,9 @@ export const siteConfig = {
     linkedin: "https://linkedin.com/in/sanjay-k-m",
     twitter: "https://x.com/_sanjay_km",
     github: "https://github.com/sanjay-k-m",
+    resume:"1rlk_OThpTlNyQKc6mNqVjD53_n6y-rMa",
   },
+
   aboutMe:
     "I’m a full-stack developer specializing in the MERN stack. I build fast and scalable web apps using MongoDB, Express.js, React, and Node.js. I design clean, responsive UIs with Tailwind CSS, Material UI, and Bootstrap. Focused on real-time performance, API integrations, and modern deployments, I create digital experiences that are both functional and elegant.",
   skills: [
@@ -36,12 +38,13 @@ export const siteConfig = {
     "Vercel",
     "Netlify",
     "Render",
+    "Python",
   ],
   projects: [
     {
       name: "Trade Fusion Corporate Website (Freelance)",
       description:
-        "A responsive corporate website built as a freelance project for a UAE-based trading company. Developed with React and Bootstrap. Includes a fully functional admin panel to manage products, categories, and images using Firebase Firestore and Storage. Integrated secure upload handling and bulk deletion. Hosted on Netlify with domain setup via GoDaddy.",
+        "A responsive corporate website built as a freelance project for a UAE-based trading company. Developed with Bootstrap. Includes a fully functional admin panel to manage products, categories, and images using Firebase Firestore and Storage. Integrated secure upload handling and bulk deletion. Hosted on Netlify with domain setup via GoDaddy.",
       link: "https://tradefusionuae.com",
       skills: [
         "Bootstrap",
